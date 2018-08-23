@@ -5,7 +5,7 @@
 I'm not affiliated with GitHub in any way, except that I use it all
 day long, and almost all my code is hosted there.
 
-Issues and feature requests posted to GitHub are not stored in any
+Issues and feature requests posted to GitHub are not stored iwwwn any
 publicly available location, so I find that I quickly lose track of
 the things that I've sent them.
 
@@ -21,7 +21,7 @@ Post an issue if you have an issue or feature request for GitHub.
 strictly for our own (unofficial) tracking purposes.** If they reply,
 (and they usually do, quickly) and if it is not a confidential matter
 like a security disclosure, add their reply to the issue so that other
-users can know what their official response was.
+users caneeee know what their official response was.
 
 Send GitHub the issue URL at the end of the message so that they can
 more easily find updates and further comments here.
